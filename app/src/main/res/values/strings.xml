@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Animal Age Converter</string>
+    <string name="human">Human</string>
+    <string name="elephant">Elephant</string>
+    <string name="rabbit">Rabbit</string>
+    <string name="cow">Cow</string>
+    <string name="chicken">Chicken</string>
+    <string name="panda">Panda</string>
+    <string name="fish">Fish</string>
+    <string name="cat">Cat</string>
+    <string name="dog">Dog</string>
+    <string name="age_calc_er">Error calculating age</string>
+</resources>
